@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Place Searches Project\n"
+"POT-Creation-Date: 2016-11-28 10:47+0100\n"
+"PO-Revision-Date: 2016-11-28 10:51+0100\n"
+"Last-Translator: \n"
+"Language-Team: Romain\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/admin/procedural-example.php:24
+msgid "Basic Settings"
+msgstr ""
+
+#: inc/admin/procedural-example.php:25
+msgid "Basic Settings description"
+msgstr ""
+
+#: inc/admin/procedural-example.php:26
+msgid "Basic"
+msgstr ""
+
+#: inc/admin/procedural-example.php:30
+msgid "Advanced Settings"
+msgstr ""
+
+#: inc/admin/procedural-example.php:31
+msgid "Advanced Settings description"
+msgstr ""
+
+#: inc/admin/procedural-example.php:35
+msgid "Other Settings"
+msgstr ""
+
+#: inc/admin/procedural-example.php:36
+msgid "Other Settings description"
+msgstr ""
+
+#: inc/admin/procedural-example.php:44 inc/admin/procedural-example.php:118
+#: inc/admin/procedural-example.php:187
+msgid "Text Input"
+msgstr ""
+
+#: inc/admin/procedural-example.php:45 inc/admin/procedural-example.php:119
+#: inc/admin/procedural-example.php:188
+msgid "Text input description"
+msgstr ""
+
+#: inc/admin/procedural-example.php:51
+msgid "HTML description"
+msgstr ""
+
+#: inc/admin/procedural-example.php:56 inc/admin/procedural-example.php:125
+#: inc/admin/procedural-example.php:194
+msgid "Textarea Input"
+msgstr ""
+
+#: inc/admin/procedural-example.php:57 inc/admin/procedural-example.php:126
+#: inc/admin/procedural-example.php:195
+msgid "Textarea description"
+msgstr ""
+
+#: inc/admin/procedural-example.php:62 inc/admin/procedural-example.php:63
+#: inc/admin/procedural-example.php:131 inc/admin/procedural-example.php:200
+msgid "Checkbox"
+msgstr ""
+
+#: inc/admin/procedural-example.php:64 inc/admin/procedural-example.php:132
+#: inc/admin/procedural-example.php:201
+msgid "Checkbox Label"
+msgstr ""
+
+#: inc/admin/procedural-example.php:69 inc/admin/procedural-example.php:137
+#: inc/admin/procedural-example.php:206
+msgid "Radio Button"
+msgstr ""
+
+#: inc/admin/procedural-example.php:70 inc/admin/procedural-example.php:138
+#: inc/admin/procedural-example.php:207
+msgid "A radio button"
+msgstr ""
+
+#: inc/admin/procedural-example.php:79 inc/admin/procedural-example.php:148
+#: inc/admin/procedural-example.php:216
+msgid "Multile checkbox"
+msgstr ""
+
+#: inc/admin/procedural-example.php:80 inc/admin/procedural-example.php:149
+#: inc/admin/procedural-example.php:217
+msgid "Multi checkbox description"
+msgstr ""
+
+#: inc/admin/procedural-example.php:91 inc/admin/procedural-example.php:161
+#: inc/admin/procedural-example.php:228
+msgid "A Dropdown"
+msgstr ""
+
+#: inc/admin/procedural-example.php:92 inc/admin/procedural-example.php:162
+#: inc/admin/procedural-example.php:229
+msgid "Dropdown description"
+msgstr ""
+
+#: inc/admin/procedural-example.php:102 inc/admin/procedural-example.php:171
+#: inc/admin/procedural-example.php:238
+msgid "Password"
+msgstr ""
+
+#: inc/admin/procedural-example.php:103 inc/admin/procedural-example.php:172
+#: inc/admin/procedural-example.php:239
+msgid "Password description"
+msgstr ""
+
+#: inc/admin/procedural-example.php:109 inc/admin/procedural-example.php:178
+#: inc/admin/procedural-example.php:245
+msgid "File"
+msgstr ""
+
+#: inc/admin/procedural-example.php:110 inc/admin/procedural-example.php:179
+#: inc/admin/procedural-example.php:246
+msgid "File description"
+msgstr ""
+
+#: library/class.settings-api.php:346
+msgid "Browse"
+msgstr ""
+
+#: library/class.settings-api.php:499
+msgid "No section available"
+msgstr ""
+
+#: place_search_widget.php:8
+msgid "A tool for searching places near to you"
+msgstr "Un outil permettant de trouver des magasins à proximité de votre position"
+
+#: place_search_widget.php:16
+msgid "Title:"
+msgstr "Titre:"
+
+#: place_search_widget.php:31
+msgid "Search"
+msgstr "Chercher"
