@@ -24,6 +24,6 @@ add_action( 'wp_enqueue_scripts', '_my_enqueue_scripts' );
  * @author Julien Maury
  */
 function _my_enqueue_scripts() {
-    wp_enqueue_script( 'localize', 'https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&callback=initMap#async', [], null, true );
+    wp_enqueue_script( 'localiz', 'https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&callback=initMap#async', [], null, true );
 }
 
