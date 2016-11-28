@@ -5,7 +5,7 @@ class Place_Search_Widget extends WP_Widget
 {
     public function __construct()
     {
-        parent::__construct('place_search', 'Place Searches', array('description' =>  _e('A tool for searching places near to you', 'Place Searches')));
+        parent::__construct('place_search', 'Place Searches', array('description' =>  __('A tool for searching places near to you', 'Place Searches')));
     }
     
     public function form($instance)
